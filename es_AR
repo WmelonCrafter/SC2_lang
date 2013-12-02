@@ -120,7 +120,7 @@ gui.SC2:distributorSideYellow=Amarillo
 gui.SC2:distributorSideGreen=Verde
 gui.SC2:distributorSideBlue=Azul
 gui.SC2:distributorSideRed=Rojo
-gui.SC2:sideToolTip=Side: [%1]
+gui.SC2:sideToolTip=Lado: [%1]
 
 # Detector Units gui localization
 gui.SC2:operatorOutput=SALIDA
