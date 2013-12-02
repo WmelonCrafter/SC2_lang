@@ -93,7 +93,7 @@ gui.SC2:settingOrange=Dirección naranja
 gui.SC2:settingBlue=Dirección azul
 gui.SC2:stateActivate=Activar
 gui.SC2:stateDeactivate=Desactivar
-gui.SC2:stateToggle= Encender/Apagar
+gui.SC2:stateToggle= Palanca
 
 # External Distributer gui localization
 gui.SC2:externalDistributor=Distribuidor externo
